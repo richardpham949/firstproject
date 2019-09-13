@@ -1,5 +1,2 @@
 # maven-project
-
-Simple Maven Project
-
-import from ValaxyTech
+Very small project
