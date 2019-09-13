@@ -1,2 +1,2 @@
 # maven-project
-Very small project
+Very small project from Git
